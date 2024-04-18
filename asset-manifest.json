@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SalaryCalculatorSpirit/static/css/main.855bc387.css",
+    "main.css": "/SalaryCalculatorSpirit/static/css/main.ba0ee858.css",
     "main.js": "/SalaryCalculatorSpirit/static/js/main.03e575c3.js",
     "static/js/787.21096c41.chunk.js": "/SalaryCalculatorSpirit/static/js/787.21096c41.chunk.js",
     "index.html": "/SalaryCalculatorSpirit/index.html",
-    "main.855bc387.css.map": "/SalaryCalculatorSpirit/static/css/main.855bc387.css.map",
+    "main.ba0ee858.css.map": "/SalaryCalculatorSpirit/static/css/main.ba0ee858.css.map",
     "main.03e575c3.js.map": "/SalaryCalculatorSpirit/static/js/main.03e575c3.js.map",
     "787.21096c41.chunk.js.map": "/SalaryCalculatorSpirit/static/js/787.21096c41.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.855bc387.css",
+    "static/css/main.ba0ee858.css",
     "static/js/main.03e575c3.js"
   ]
 }
