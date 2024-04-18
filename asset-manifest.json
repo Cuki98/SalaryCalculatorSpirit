@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SpiritSalaryCalculator/static/css/main.855bc387.css",
-    "main.js": "/SpiritSalaryCalculator/static/js/main.0b09304c.js",
-    "static/js/787.21096c41.chunk.js": "/SpiritSalaryCalculator/static/js/787.21096c41.chunk.js",
-    "index.html": "/SpiritSalaryCalculator/index.html",
-    "main.855bc387.css.map": "/SpiritSalaryCalculator/static/css/main.855bc387.css.map",
-    "main.0b09304c.js.map": "/SpiritSalaryCalculator/static/js/main.0b09304c.js.map",
-    "787.21096c41.chunk.js.map": "/SpiritSalaryCalculator/static/js/787.21096c41.chunk.js.map"
+    "main.css": "/SalaryCalculatorSpirit/static/css/main.855bc387.css",
+    "main.js": "/SalaryCalculatorSpirit/static/js/main.03e575c3.js",
+    "static/js/787.21096c41.chunk.js": "/SalaryCalculatorSpirit/static/js/787.21096c41.chunk.js",
+    "index.html": "/SalaryCalculatorSpirit/index.html",
+    "main.855bc387.css.map": "/SalaryCalculatorSpirit/static/css/main.855bc387.css.map",
+    "main.03e575c3.js.map": "/SalaryCalculatorSpirit/static/js/main.03e575c3.js.map",
+    "787.21096c41.chunk.js.map": "/SalaryCalculatorSpirit/static/js/787.21096c41.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.855bc387.css",
-    "static/js/main.0b09304c.js"
+    "static/js/main.03e575c3.js"
   ]
 }
