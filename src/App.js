@@ -42,7 +42,7 @@ function App() {
         <h2>Pay Rate</h2>
         <button onClick={() => handlePayrateChange(25.80)}>Pay Rate $25.80</button>
         <button onClick={() => handlePayrateChange(30.50)}>Pay Rate $30.18</button>
-        <button onClick={() => handlePayrateChange(35.75)}>Pay Rate $32.41</button>
+        <button onClick={() => handlePayrateChange(32.41)}>Pay Rate $32.41</button>
       </div>
       <div className="content">
         <h2>Salary Calculator</h2>
